@@ -1,0 +1,83 @@
+.margin-kiri-kanan {
+    margin: 0 5%;
+}
+.padding-kiri-kanan {
+    padding: 0 5%;
+}
+.coding-with-left {
+    text-align: left;
+}
+.coding-with-right {
+    text-align: right;
+}
+.logo-indoit {
+    height: 25%; width: 25%;
+}
+.height-header {
+    height: 540px;
+}
+.text-header {
+    max-width: 60%;
+}
+.padding-blog {
+    padding: 20px 300px;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color: #766dff;
+    text-decoration: none;
+}
+.video {
+    margin: auto;
+}
+/* #my-content .icon {
+  display: none;
+} */
+.topnav .icon-nav {
+    display: none;
+}
+
+@media screen and (max-width:750px){
+    .padding-blog {
+        padding: 15px 20px;
+    }
+    .abc {
+        width: 100%;
+    }
+    /* #my-content {
+        display: none;
+    } */
+    .coding-with-left {
+        text-align: center;
+    }
+    .coding-with-right {
+        text-align: center;
+    }
+    .logo-indoit {
+        height: 35%; width: 35%;
+    }
+    .height-header {
+        height: 590px;
+    }
+    .text-header {
+        max-width: 80%;
+    }
+    .video {
+        margin-top: 100px;
+    }
+    .topnav .menu {display: none;}
+    .topnav a.icon-nav {
+      /* display: block; */
+      display: flex;
+      align-items: center;
+    }
+}
+/* #btnScrollToTop {
+    position: fixed;
+    background-color: blue;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+} */

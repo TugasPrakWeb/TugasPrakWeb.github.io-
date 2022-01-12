@@ -1,0 +1,7 @@
+<div class="row aboutdesc text-center">
+      <div class="col-md-4"><div class="col-sm-12"><i class="fas fa-users fa-5x" id="user"></i><br><br><b style="color: crimson;">????</b> Merupakan apa blblrhblcrewcrewu</div></div>
+      <br>
+      <div class="col-md-4"><div class="col-sm-12"><i class="fas fa-gamepad fa-5x" id="game"></i><br> <br> bkrhbecirwetnt <b style="color: crimson;">???</b> ???</div></div>
+      <br>
+      <div class="col-md-4 "><div class="col-sm-12"><i class="fa fa-flask fa-5x" aria-hidden="true" id="dc"></i><br><br> ctwtcwntoi <b style="color: crimson;">???</b> ??</div></div>
+    </div>
